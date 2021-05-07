@@ -1,0 +1,17 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "Final project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
